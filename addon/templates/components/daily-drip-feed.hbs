@@ -1,0 +1,10 @@
+<h3 data-feed-header>
+  {{results.title}}
+</h3>
+<ul data-feed-list>
+  {{#each results.feed as |item|}}
+    <li>
+      <a href={{item.link}}>{{item.title}}</a>
+    </li>
+  {{/each}}
+</ul>

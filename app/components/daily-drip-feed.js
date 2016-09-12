@@ -1,0 +1,1 @@
+export { default } from 'ember-daily-drip-feed/components/daily-drip-feed';
