@@ -1,5 +1,7 @@
 # Ember-daily-drip-feed
 
+![Build Status](https://travis-ci.org/baroquon/ember-daily-drip-feed.svg?branch=master)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
