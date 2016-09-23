@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/baroquon/ember-daily-drip-feed.svg?branch=007.5_activity_complete)
+
 # Ember-daily-drip-feed
 
 This is an Ember addon that is a super simple RSS reader for the topic feeds from Daily Drip.
