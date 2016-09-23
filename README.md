@@ -1,17 +1,31 @@
 # Ember-daily-drip-feed
 
-This README outlines the details of collaborating on this Ember addon.
+This is an Ember addon that is a super simple RSS reader for the topic feeds from Daily Drip.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+```sh
+ember install ember-daily-drip-feed
+```
+## Usage
 
-## Running
+Where you want to include the feed list just add:
 
-* `ember serve`
-* Visit your app at http://localhost:4200.
+```handlbars
+{{daily-drip-feed topic='ember'}}
+```
+
+Presently the list of available topics for Daily Drip are:
+
+* ember (default)
+* elm
+* sidekiq
+* html-css
+* elm-remote-meetup
+* elixir
+* elixir-remote-meetup
+
+This addon supplies an unstyled `ul`.
 
 ## Running Tests
 
