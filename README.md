@@ -29,6 +29,22 @@ Presently the list of available topics for Daily Drip are:
 
 This addon supplies an unstyled `ul`.
 
+## Contributing
+
+* Fork this this repository
+* `git clone <local-repository-url>`
+* `cd ember-keyboard-navigable-list`
+* `npm install`
+* `bower install`
+* make changes and commit with a good commit message
+* open a PR
+
+## Running
+
+* `cd ember-keyboard-navigable-list/tests/dummy`
+* `ember s`
+
+
 ## Running Tests
 
 * `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
