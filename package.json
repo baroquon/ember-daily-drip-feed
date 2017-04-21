@@ -1,7 +1,7 @@
 {
   "name": "ember-daily-drip-feed",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A very simple addon that displays a list of feed items based on topics from Daily Drip",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "https://github.com/baroquon/ember-daily-drip-feed",
   "engines": {
     "node": ">= 0.10.0"
   },
