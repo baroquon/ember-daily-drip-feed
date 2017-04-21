@@ -1,6 +1,6 @@
 {
   "name": "ember-daily-drip-feed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A very simple addon that displays a list of feed items based on topics from Daily Drip",
   "directories": {
     "doc": "doc",
